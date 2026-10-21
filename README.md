@@ -25,9 +25,9 @@ Antes de ir para a tecnologia, trabalhei na área comercial. Por isso, gosto de 
 
 | Projeto | O que é | Stack |
 |---|---|---|
-| [ta-pra-pesca](https://github.com/oleonardomendes/ta-pra-pesca) | E-commerce em produção integrado ao ERP Bling e à Melhor Envio | Next.js · TypeScript · Supabase |
+| [ta-pra-pesca](https://github.com/oleonardomendes/ta-pra-pesca) | E-commerce em produção com checkout próprio (Mercado Pago) e pós-venda automatizado no Bling e na Melhor Envio | Next.js · TypeScript · Supabase |
 | [operae-engine](https://github.com/oleonardomendes/operae-engine) | Motor de e-commerce modular extraído do Tá Pra Pesca | Next.js · TypeScript · Supabase |
-| [frontend_eduinclusiva_v1](https://github.com/oleonardomendes/frontend_eduinclusiva_v1) | Plataforma de educação inclusiva com IA | React · FastAPI · LLM |
+| [Edu+ Inclusiva](https://edumaisinclusiva.com.br) | Plataforma com IA para famílias e clínicas que acompanham crianças com necessidades especiais, com dashboard por especialidade (código privado; [v1 pública aqui](https://github.com/oleonardomendes/frontend_eduinclusiva_v1)) | Next.js · FastAPI · Supabase · LLM |
 | [truck-style-revamp-site](https://github.com/oleonardomendes/truck-style-revamp-site) | Site e painel de estoque para revenda de caminhões | React · Supabase |
 
 ## 📫 Contato
