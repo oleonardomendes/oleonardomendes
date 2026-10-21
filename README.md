@@ -25,6 +25,7 @@ Antes de ir para a tecnologia, trabalhei na área comercial. Por isso, gosto de 
 
 | Projeto | O que é | Stack |
 |---|---|---|
+| [edital-match](https://github.com/oleonardomendes/edital-match) | Cruza os requisitos de editais de licitação com currículos e gera ranking explicável, com a evidência de cada critério | Python · FastAPI · PostgreSQL + pgvector · LLM |
 | [ta-pra-pesca](https://github.com/oleonardomendes/ta-pra-pesca) | E-commerce em produção com checkout próprio (Mercado Pago) e pós-venda automatizado no Bling e na Melhor Envio | Next.js · TypeScript · Supabase |
 | [operae-engine](https://github.com/oleonardomendes/operae-engine) | Motor de e-commerce modular extraído do Tá Pra Pesca | Next.js · TypeScript · Supabase |
 | [Edu+ Inclusiva](https://edumaisinclusiva.com.br) | Plataforma com IA para famílias e clínicas que acompanham crianças com necessidades especiais, com dashboard por especialidade (código privado; [v1 pública aqui](https://github.com/oleonardomendes/frontend_eduinclusiva_v1)) | Next.js · FastAPI · Supabase · LLM |
